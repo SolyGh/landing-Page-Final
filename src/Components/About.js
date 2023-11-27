@@ -1,7 +1,7 @@
 import React from 'react';
-import AboutBackground from "../Assets/about-background.png"
+import AboutBackground from "../Assets/about-background.png";
 import AboutBackgroundImage from "../Assets/about-background-image.png";
-import { BsFillCCircleFill, BsFillPlayBtnFill } from 'react-icons/bs';
+import { BsFillCCircleFill } from 'react-icons/bs';
 const About = () => {
   return (
     <div className='about-section-container'>
